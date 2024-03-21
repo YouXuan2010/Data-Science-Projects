@@ -12,6 +12,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    - **Description:** The project predicts the house price after studying the variables such as location, area, bredroom, bathroom count and many more
    - **Technologies Used:** The notebook uses Polynomial Regression, Ridge Regression, Decision Tree regressor and Random Forest Regressor
    - **Results:** The Random Forest Regressor performed best with an accuracy of 87.89%
+   - **Tableau Dashboard:** [Link to Dashboard](https://public.tableau.com/app/profile/you.xuan.lim/viz/KingCountyHouseSales_17110320343140/KingCountyHouseSales)
 3. [Red Wine Quality Prediction](https://github.com/YouXuan2010/Data-Science-Projects/tree/main/Red%20Wine%20Quality%20Prediction)
    - **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 represents for good quality wine and 0 represents for bad quality wine
    - **Technologies Used:** The notebooks uses Logistic Regression, Support Vector Machine, Decision Tree and K-NN classification
