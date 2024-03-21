@@ -15,5 +15,9 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    - **Tableau Dashboard:** [Link to Dashboard](https://public.tableau.com/app/profile/you.xuan.lim/viz/KingCountyHouseSales_17110320343140/KingCountyHouseSales)
 3. [Red Wine Quality Prediction](https://github.com/YouXuan2010/Data-Science-Projects/tree/main/Red%20Wine%20Quality%20Prediction)
    - **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 represents for good quality wine and 0 represents for bad quality wine
-   - **Technologies Used:** The notebooks uses Logistic Regression, Support Vector Machine, Decision Tree and K-NN classification
+   - **Technologies Used:** The notebook uses Logistic Regression, Support Vector Machine, Decision Tree and K-NN classification
    - **Results:** The logistic regression model performs the best with accuracy of 86.67%
+4. [Diamond Price Prediction](https://github.com/YouXuan2010/Data-Science-Projects/tree/main/Diamond%20Price%20Prediction)
+   - **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
+   - **Technologies Used:** The notebook uses Descision Tree Regressor and Random Forest Regressor
+   - **Results:** The Decision Tree Regresor performed pretty well on the test dataset with an accuracy of 96%
