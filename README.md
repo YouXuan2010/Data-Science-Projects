@@ -9,5 +9,5 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    - **Results:** Separated customer in different clusters and found interesting relationship between different interior and exterior components customization
 2. [House Price Prediction](https://github.com/YouXuan2010/Data-Science-Projects/tree/main/House%20Price%20Prediction)
    - **Description:** The project predicts the house price after studying the variables such as location, area, bredroom, bathroom count and many more.
-   - **Technologies Used:** The notebook uses Linear Regression, Ridge Regression and Random Forest Regressor
+   - **Technologies Used:** The notebook uses Polynomial Regression, Ridge Regression, Decision Tree regressor and Random Forest Regressor
    - **Results:** The Random Forest Regressor performed best with an accuracy of 87.89%
