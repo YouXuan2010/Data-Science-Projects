@@ -4,9 +4,9 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 ## Projects
 1. [Product Survey Data Analysis](https://github.com/YouXuan2010/Data-Science-Projects/tree/main/Product%20Survey%20Data%20Analysis)
-   - **Description:** The project conducted data analysis and data mining using survery results about customization of cars
-   - **Technologies Used:** The notebooks uses Multiple correspondence analysis (MCA) and Association Rule Mining
-   - **Results:** Separated customer in different clusters and found relationship between different interior and exterior components
+   - **Description:** The project conducted data analysis and data mining on the customer survery results about customization of cars
+   - **Technologies Used:** The notebooks uses Multiple correspondence analysis (MCA) for clustering and Association Rule Mining for Market Basket Analysis
+   - **Results:** Separated customer in different clusters and found interesting relationship between different interior and exterior components customization
 2. [Red Wine Quality Prediction](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Red%20Wine%20Quality)
    - **Description:** The project predicts the quality of the wine in the value 0 or 1. 1 for good quality and 0 for bad quality
    - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
