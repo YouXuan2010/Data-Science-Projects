@@ -1,5 +1,4 @@
 # Energy Consumption Time Series Forecast
-![](https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2021/03/chaitali-majumder/house-price-497112-KhCJQICS.jpg)
 This data science project focuses on forecasting energy consumption using time series data and XGBoost Regressor. By analyzing historical energy consumption patterns and leveraging machine learning techniques, the project aims to develop a predictive model that can accurately forecast future energy consumption.
 
 ## Dataset Information
