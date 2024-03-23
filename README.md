@@ -21,3 +21,8 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
    - **Description:** The project predicts the price (in US dollars) of the diamonds based on their features
    - **Technologies Used:** The notebook uses Descision Tree Regressor and Random Forest Regressor
    - **Results:** The Decision Tree Regresor performed pretty well on the test dataset with an accuracy of 96%
+5. [Energy Consumption Time Series Forecast](link_to_your_github_repo)
+   - **Description:** This project focuses on forecasting energy consumption using time series data.
+   - **Technologies Used:** The notebook uses XGBoost Regressor
+   - **Results:** The XGBoost Regressor achieved an RMSE of 3726.80 on the test dataset.
+
